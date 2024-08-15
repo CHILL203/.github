@@ -99,6 +99,7 @@
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `Docker(27.0.3)` 
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) `Jenkins(2.452.3)`
 
+![image](https://github.com/user-attachments/assets/71a6eb33-ac49-4588-bfbe-e03b905e03c2)
 
 
 ## 📑 산출물
