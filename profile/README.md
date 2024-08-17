@@ -93,11 +93,14 @@
 - ![Compose Ui Test](https://img.shields.io/badge/Compose%20Ui%20Test-03A9F4?style=flat-square&logo=android&logoColor=white) `Compose Ui Test`
 
 ### BE
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) `Java(21)` 
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `Java(21)` 
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) `Spring Boot(3.2.7)` 
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) `MariaDB(11.4.2)` 
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `Docker(27.0.3)` 
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) `Jenkins(2.452.3)`
+- ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) `AWS EC2`
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) `Nginx`
+
 
 ![image](https://github.com/user-attachments/assets/71a6eb33-ac49-4588-bfbe-e03b905e03c2)
 
