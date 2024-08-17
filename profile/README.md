@@ -1,6 +1,6 @@
 <div align="center" >
 
-# 말랑(Mallang)
+# 말vs랑(Mallang)
 
 ### 지도 기반 문해력 증진 어플리케이션
 
