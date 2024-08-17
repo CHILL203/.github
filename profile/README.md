@@ -101,6 +101,10 @@
 - ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) `AWS EC2`
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) `Nginx`
 
+### TOOL
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) `Notion`
+- ![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=mattermost&logoColor=white) `Mattermost`
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) `Jira`
 
 ![image](https://github.com/user-attachments/assets/71a6eb33-ac49-4588-bfbe-e03b905e03c2)
 
