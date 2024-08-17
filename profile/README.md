@@ -21,7 +21,7 @@
 
 
 ### Backend
-|[김정인](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
+|[김정인(팀장)](https://github.com/IanToo2) | [나혜림](https://github.com/HyerimNa) | [변서원](https://github.com/byunseowon) 
 |:--------:|:---------:|:---------:|
 | ![](https://github.com/IanToo2.png) | ![](https://github.com/HyerimNa.png) | ![](https://github.com/byunseowon.png) |
 
